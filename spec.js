@@ -81,5 +81,6 @@ it('Should open Immesive office launcher',function(){
     
    var title = element(by.id('appReaderTitle'));
    console.log(title.textContent)
+//    test checkin
  });
 });
